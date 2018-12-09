@@ -539,4 +539,5 @@ class calculator {
 
 } // End Class
 //todo 1. make aure it can accept floating poitn numbers!
+//this is just to see how git updates it, lol
 //todo 2. check other major errors
